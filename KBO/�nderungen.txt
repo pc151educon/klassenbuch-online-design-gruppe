@@ -1,0 +1,20 @@
+- Schülerliste aktualisieren
+- Lehrerliste aktualisieren
+
+Klassenliste:
+	- Löschenbuttons = unsichtbar machen
+Anwesenheits
+	- bei "verspätet" wieder in input-feld ändern
+	- unter Berichtsheft eintragen(im Menü)
+Fehlzeiten
+	- Link zur Anzeige vom einzelnen Schüler
+Notenliste:
+	- Fächer nur normaler Text und kein Inputfeld
+	- Durchschnittsnote hinzufügen
+	- unter Berichtsheft eintragen
+	
+	
+was fehlt:
+
+fach hinzufügen
+

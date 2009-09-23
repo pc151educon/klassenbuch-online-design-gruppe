@@ -1,0 +1,96 @@
+Home
+Profile
+	- meine Seite 	- nur sichtbar für eingeloggte User
+	- Profilsuche 		=> Namenssuche "Rangauswahl durch Pulldown" => Profilanzeige
+Übersicht (Ansicht)
+	- Noten			- nur Ausgabe, Durchschnitt hinzufügen
+	- Fehlzeiten 	- Klassen..
+	- Stundenplan
+	- Klassenlisten 	- Klassen aufgelistet => Klasse jeweils als Button zur jeweiligen Schülerliste
+Eintragungen
+	- Bericht
+	- Anwesenheit
+	- Noten
+	- Wochenplaner
+Datenverwaltung
+	- Benutzer
+	- Klassen
+	- Fächer
+
+
+							Admin:
+	
+Home
+Profile
+	- meine Seite
+	- Profilsuche
+Übersicht
+	- Fehlzeiten
+	- Notenliste
+	- Stundenplan
+- 	Klassenlisten
+Eintragungen (Bearbeitung)
+	- News
+	- Bericht
+	- Anwesenheit
+	- Noten
+	- Wochenplaner
+Verwaltung
+	- Benutzer (Admin, FBL, Lehrer & Schüler)
+	- Klassen
+	- Fächer	
+	
+							FBL:
+	
+Home
+Profile
+	- meine Seite
+	- Profilsuche
+Übersicht
+	- Fehlzeiten
+	- Notenliste
+	- Stundenplan
+	- Klassenlisten
+Eintragungen (Bearbeitung)
+	- News
+	- Bericht
+	- Anwesenheit
+	- Noten
+Verwaltung
+	- Benutzer (Schüler)
+	- Wochenplaner
+
+							Lehrer:
+	
+Home
+Profile
+	- meine Seite
+	- Profilsuche
+Übersicht
+	- Fehlzeiten
+	- Notenliste
+	- Stundenplan
+	- Klassenlisten
+Eintragungen (Bearbeitung)
+	- News
+	- Bericht
+	- Anwesenheit
+	- Noten
+	
+							Schüler:
+	
+Home
+Profile
+	- meine Seite
+	- Profilsuche
+Übersicht
+	- Fehlzeiten
+	- Notenliste
+	- Stundenplan
+	- Klassenlisten
+	
+	
+							nicht eingeloggte
+							
+Home
+Stundenplan							
